@@ -1,4 +1,0 @@
-﻿  Source.cpp
-d:\workstation\programming\exercises\project euler\largestprimefactor\largestprimefactor\source.cpp(35): warning C4018: '<': signed/unsigned mismatch
-d:\workstation\programming\exercises\project euler\largestprimefactor\largestprimefactor\source.cpp(65): warning C4018: '<': signed/unsigned mismatch
-  largestPrimeFactor.vcxproj -> D:\Workstation\Programming\Exercises\Project Euler\largestPrimeFactor\Debug\largestPrimeFactor.exe

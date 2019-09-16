@@ -1,6 +1,0 @@
-﻿  Source.cpp
-d:\workstation\programming\exercises\project euler\largestproductinaseries\largestproductinaseries\source.cpp(42): warning C4018: '<': signed/unsigned mismatch
-d:\workstation\programming\exercises\project euler\largestproductinaseries\largestproductinaseries\source.cpp(55): warning C4018: '<': signed/unsigned mismatch
-d:\workstation\programming\exercises\project euler\largestproductinaseries\largestproductinaseries\source.cpp(57): warning C4018: '<': signed/unsigned mismatch
-d:\workstation\programming\exercises\project euler\largestproductinaseries\largestproductinaseries\source.cpp(69): warning C4018: '<': signed/unsigned mismatch
-  largestProductInASeries.vcxproj -> D:\Workstation\Programming\Exercises\Project Euler\largestProductInASeries\Debug\largestProductInASeries.exe
