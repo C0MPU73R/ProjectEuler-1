@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\workstation\programming\exercises\project euler\smallestmultiple\smallestmultiple\source.cpp(30): warning C4018: '<': signed/unsigned mismatch
+d:\workstation\programming\exercises\project euler\smallestmultiple\smallestmultiple\source.cpp(59): warning C4018: '<': signed/unsigned mismatch
+  smallestMultiple.vcxproj -> D:\Workstation\Programming\Exercises\Project Euler\smallestMultiple\Debug\smallestMultiple.exe

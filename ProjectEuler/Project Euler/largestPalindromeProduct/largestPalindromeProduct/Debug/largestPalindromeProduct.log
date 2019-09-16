@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\workstation\programming\exercises\project euler\largestpalindromeproduct\largestpalindromeproduct\source.cpp(33): warning C4018: '<': signed/unsigned mismatch
+d:\workstation\programming\exercises\project euler\largestpalindromeproduct\largestpalindromeproduct\source.cpp(59): warning C4018: '<': signed/unsigned mismatch
+d:\workstation\programming\exercises\project euler\largestpalindromeproduct\largestpalindromeproduct\source.cpp(74): warning C4018: '<': signed/unsigned mismatch
+  largestPalindromeProduct.vcxproj -> D:\Workstation\Programming\Exercises\Project Euler\largestPalindromeProduct\Debug\largestPalindromeProduct.exe
